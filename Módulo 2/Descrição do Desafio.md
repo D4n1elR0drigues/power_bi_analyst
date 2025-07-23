@@ -1,86 +1,93 @@
-📊 Desafio Power BI - Sample Financials Dashboard
-🧠 Entendendo o Desafio
+Perfeito! Abaixo está o **README.md** atualizado com as **novas informações** que você forneceu. Adaptei o conteúdo para manter a clareza, o tom profissional e o foco no desafio da DIO com Power BI.
+
+---
+
+# 📊 Desafio Power BI - Sample Financials Dashboard
+
+## 🧠 Entendendo o Desafio
+
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! 💼
 
-O objetivo deste desafio é aplicar todos os conhecimentos adquiridos no curso e criar um relatório interativo no Power BI, com base na base de dados Sample Financials. Essa é uma excelente oportunidade para evoluir seu portfólio e destacar-se em entrevistas técnicas e processos seletivos 😎
+O objetivo deste desafio é aplicar todos os conhecimentos adquiridos no curso e **criar um relatório interativo no Power BI**, com base na base de dados **Sample Financials**. Essa é uma excelente oportunidade para evoluir seu portfólio e destacar-se em entrevistas técnicas e processos seletivos 😎
 
-Você deve criar seu próprio repositório no GitHub contendo todos os arquivos utilizados no projeto, como o .pbix (Power BI), .pptx (caso exportado), imagens, além de possíveis links complementares (como Figma, Power BI Service, etc.).
+Você deve criar seu próprio repositório no GitHub contendo todos os **arquivos utilizados no projeto**, como o `.pbix` (Power BI), `.pptx` (caso exportado), imagens, além de possíveis links complementares (como Figma, Power BI Service, etc.).
 
-💡 Dica: Se o expert forneceu um repositório no GitHub, dê um fork para manter o histórico e facilitar a evolução do seu projeto com base no original.
+> 💡 Dica: Se o expert forneceu um repositório no GitHub, dê um **fork** para manter o histórico e facilitar a evolução do seu projeto com base no original.
 
-📌 Instruções do Desafio
-📝 Descrição
-Você irá criar um relatório mais elaborado com base nos dados da Sample Financials. Os arquivos estão disponíveis no repositório original da instrutora:
+---
 
-🔗 https://github.com/julianazanelatto/power_bi_analyst
+## 📌 Instruções do Desafio
 
-✅ Requisitos:
-Criar um relatório visualmente organizado, utilizando:
+### 📝 Descrição
 
-🎯 Indicadores (KPI cards)
+Você irá **criar um relatório mais elaborado** com base nos dados da *Sample Financials*. Os arquivos estão disponíveis no repositório original da instrutora:
 
-📊 Gráficos interativos
+🔗 [https://github.com/julianazanelatto/power\_bi\_analyst](https://github.com/julianazanelatto/power_bi_analyst)
 
-🧭 Segmentadores com imagens e botões
+### ✅ Requisitos:
 
-🧩 Botões de navegação entre páginas
+* Criar um **relatório visualmente organizado**, utilizando:
 
-Utilizar os elementos que compõem a primeira página:
+  * 🎯 Indicadores (KPI cards)
+  * 📊 Gráficos interativos
+  * 🧭 Segmentadores com imagens e botões
+  * 🧩 Botões de navegação entre páginas
 
-Estrutura de layout com formas e objetos
+* Utilizar os elementos que compõem a **primeira página**:
 
-Visuais bem distribuídos e informativos
+  * Estrutura de layout com formas e objetos
+  * Visuais bem distribuídos e informativos
+  * Segmentadores de dados contextuais
+  * Botões com imagens para melhor navegabilidade
 
-Segmentadores de dados contextuais
+* Criar uma **segunda página** com visualizações adicionais
 
-Botões com imagens para melhor navegabilidade
+* Publicar o relatório no **Power BI Service**
 
-Criar uma segunda página com visualizações adicionais
+* Submeter o projeto com os links ou arquivos diretamente no GitHub
 
-Publicar o relatório no Power BI Service
+---
 
-Submeter o projeto com os links ou arquivos diretamente no GitHub
+## 💾 Dados Utilizados
 
-💾 Dados Utilizados
-Fonte dos dados: Sample Financials
+* **Fonte dos dados:** Sample Financials
+* **Formato:** Arquivo `.csv` disponibilizado no repositório da instrutora
 
-Formato: Arquivo .csv disponibilizado no repositório da instrutora
+---
 
-🚀 Sobre o Projeto
+## 🚀 Sobre o Projeto
+
 Este projeto tem como foco:
 
-Consolidar o aprendizado de Power BI na prática
+* Consolidar o aprendizado de Power BI na prática
+* Construir relatórios com **design eficiente e navegação intuitiva**
+* Utilizar segmentadores e botões visuais
+* Melhorar o portfólio pessoal no GitHub
+* Aumentar suas chances de sucesso em entrevistas técnicas
 
-Construir relatórios com design eficiente e navegação intuitiva
+---
 
-Utilizar segmentadores e botões visuais
+## 🧰 Ferramentas Utilizadas
 
-Melhorar o portfólio pessoal no GitHub
+* Power BI Desktop
+* Power BI Service (publicação online)
+* Git & GitHub
+* (Opcional) PowerPoint e Figma
 
-Aumentar suas chances de sucesso em entrevistas técnicas
+---
 
-🧰 Ferramentas Utilizadas
-Power BI Desktop
+## 📎 Como Acessar
 
-Power BI Service (publicação online)
+1. Baixe o arquivo `.pbix` ou `.pptx` deste repositório
+2. Abra com o Power BI Desktop ou PowerPoint
+3. Explore os dashboards, navegação e filtros dinâmicos
 
-Git & GitHub
-
-(Opcional) PowerPoint e Figma
-
-📎 Como Acessar
-Baixe o arquivo .pbix ou .pptx deste repositório
-
-Abra com o Power BI Desktop ou PowerPoint
-
-Explore os dashboards, navegação e filtros dinâmicos
+---
 
 Se quiser, posso adicionar:
 
-Uma seção de screenshots dos relatórios 📸
-
-Um badge de status do repositório
-
-Versão em inglês para portfólio internacional 🌍
+* Uma seção de screenshots dos relatórios 📸
+* Um badge de status do repositório
+* Versão em inglês para portfólio internacional 🌍
 
 Me avise e faço para você rapidinho!
