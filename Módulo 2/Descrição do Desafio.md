@@ -1,7 +1,3 @@
-Perfeito! Abaixo está o **README.md** atualizado com as **novas informações** que você forneceu. Adaptei o conteúdo para manter a clareza, o tom profissional e o foco no desafio da DIO com Power BI.
-
----
-
 # 📊 Desafio Power BI - Sample Financials Dashboard
 
 ## 🧠 Entendendo o Desafio
