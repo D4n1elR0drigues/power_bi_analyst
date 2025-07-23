@@ -1,68 +1,86 @@
-# 📊 Desafio Power BI - Projeto de Visualização de Dados
+📊 Desafio Power BI - Sample Financials Dashboard
+🧠 Entendendo o Desafio
+Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! 💼
 
-## 🧠 Entendendo o Desafio
+O objetivo deste desafio é aplicar todos os conhecimentos adquiridos no curso e criar um relatório interativo no Power BI, com base na base de dados Sample Financials. Essa é uma excelente oportunidade para evoluir seu portfólio e destacar-se em entrevistas técnicas e processos seletivos 😎
 
-Este repositório contém a entrega do **primeiro desafio com Power BI** proposto durante o curso da **DIO (Digital Innovation One)**.
+Você deve criar seu próprio repositório no GitHub contendo todos os arquivos utilizados no projeto, como o .pbix (Power BI), .pptx (caso exportado), imagens, além de possíveis links complementares (como Figma, Power BI Service, etc.).
 
-O objetivo é explorar todos os conceitos abordados até o momento e replicar (ou até mesmo melhorar 💡) as páginas de relatório criadas no curso, além de construir uma **terceira página original com novos visuais**.
+💡 Dica: Se o expert forneceu um repositório no GitHub, dê um fork para manter o histórico e facilitar a evolução do seu projeto com base no original.
 
-> ⚠️ Dica: caso o expert tenha fornecido um repositório original, dê um **fork** para manter a referência ao código-base e facilitar o versionamento das melhorias realizadas.
+📌 Instruções do Desafio
+📝 Descrição
+Você irá criar um relatório mais elaborado com base nos dados da Sample Financials. Os arquivos estão disponíveis no repositório original da instrutora:
 
----
+🔗 https://github.com/julianazanelatto/power_bi_analyst
 
-## 📌 Instruções do Desafio
+✅ Requisitos:
+Criar um relatório visualmente organizado, utilizando:
 
-### ✅ Etapas:
+🎯 Indicadores (KPI cards)
 
-1. **Replicar as duas páginas do curso**, utilizando a base de dados disponibilizada.
-2. **Criar uma terceira página**, com os seguintes visuais:
-   - 🌍 **Mapa 1**: Soma de **sales** e **unidades vendidas** por país
-   - 📈 **Mapa 2**: Soma de **profit (lucro)** por país
-   - 🥧 **Gráfico de pizza**: Lucro por **segmento**
+📊 Gráficos interativos
 
----
+🧭 Segmentadores com imagens e botões
 
-### ✨ Requisitos da Página 3:
+🧩 Botões de navegação entre páginas
 
-- Verifique a **disposição dos visuais** no relatório
-- Renomeie os títulos dos visuais para algo **mais claro e contextualizado**
-- Adicione **dicas de ferramenta** (tooltips) com informações relevantes
-- **Publique o relatório**
-- Exporte e compartilhe como suplemento em PowerPoint (`.pptx`)  
-  _(ou salve como `.pbix`, caso não tenha o PowerPoint)_
+Utilizar os elementos que compõem a primeira página:
 
----
+Estrutura de layout com formas e objetos
 
-## 📁 Dados Utilizados
+Visuais bem distribuídos e informativos
 
-Os dados utilizados estão disponíveis neste repositório oficial fornecido pela expert do curso:
+Segmentadores de dados contextuais
 
-🔗 [https://github.com/julianazanelatto/power_bi_analyst](https://github.com/julianazanelatto/power_bi_analyst)
+Botões com imagens para melhor navegabilidade
 
----
+Criar uma segunda página com visualizações adicionais
 
-## 💻 Como Visualizar
+Publicar o relatório no Power BI Service
 
-1. Faça o download do arquivo `.pbix` ou `.pptx` neste repositório
-2. Abra com o **Power BI Desktop** ou **Microsoft PowerPoint**
-3. Explore os visuais, interações e insights gerados!
+Submeter o projeto com os links ou arquivos diretamente no GitHub
 
----
+💾 Dados Utilizados
+Fonte dos dados: Sample Financials
 
-## 🚀 Sobre o Projeto
+Formato: Arquivo .csv disponibilizado no repositório da instrutora
 
-Este projeto foi criado com o objetivo de:
+🚀 Sobre o Projeto
+Este projeto tem como foco:
 
-- Praticar o uso de **visuais no Power BI**
-- Construir páginas analíticas com **boa organização e insights**
-- Melhorar o **portfólio de projetos no GitHub**
-- Aumentar o destaque em **entrevistas técnicas**
+Consolidar o aprendizado de Power BI na prática
 
----
+Construir relatórios com design eficiente e navegação intuitiva
 
-## 🧰 Ferramentas Utilizadas
+Utilizar segmentadores e botões visuais
 
-- Microsoft Power BI Desktop
-- PowerPoint (opcional)
-- Git e GitHub
-- Dados CSV da Sample Superstore
+Melhorar o portfólio pessoal no GitHub
+
+Aumentar suas chances de sucesso em entrevistas técnicas
+
+🧰 Ferramentas Utilizadas
+Power BI Desktop
+
+Power BI Service (publicação online)
+
+Git & GitHub
+
+(Opcional) PowerPoint e Figma
+
+📎 Como Acessar
+Baixe o arquivo .pbix ou .pptx deste repositório
+
+Abra com o Power BI Desktop ou PowerPoint
+
+Explore os dashboards, navegação e filtros dinâmicos
+
+Se quiser, posso adicionar:
+
+Uma seção de screenshots dos relatórios 📸
+
+Um badge de status do repositório
+
+Versão em inglês para portfólio internacional 🌍
+
+Me avise e faço para você rapidinho!
